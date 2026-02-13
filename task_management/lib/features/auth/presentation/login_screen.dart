@@ -84,8 +84,8 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
                         controller: _emailController,
                         keyboardType: TextInputType.emailAddress,
                         decoration: InputDecoration(
-                          labelText: 'Enter email test@test.com',
-                          hintText: 'Enter email test@test.com',
+                          labelText: 'Enter email abhiraj@gmail.com',
+                          hintText: 'Enter email abhiraj@gmail.com',
                           prefixIcon: const Icon(Icons.email_outlined),
                           border: OutlineInputBorder(
                             borderRadius: BorderRadius.circular(12),
