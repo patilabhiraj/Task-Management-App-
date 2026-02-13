@@ -99,7 +99,7 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
                         controller: _passwordController,
                         obscureText: _obscurePassword,
                         decoration: InputDecoration(
-                          labelText: 'Password',
+                          labelText: 'Enter password 112233',
                           hintText: 'Enter password 112233',
                           prefixIcon: const Icon(Icons.lock_outline),
                           suffixIcon: IconButton(
